@@ -1,0 +1,10 @@
+.geometric-shapes__rectangle {
+  position: absolute;
+  top: 39.6%;
+  left: 10.5%;
+  width: 242.9px;
+  height: 35px;
+  transform: rotate(47deg);
+  background-color: rgb(30, 63, 155);
+  z-index: 1;
+}

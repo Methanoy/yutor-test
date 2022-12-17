@@ -1,0 +1,9 @@
+.geometric-shapes__triangle {
+  position: absolute;
+  top: 0;
+  right: 0;
+	width: 0;
+	height: 0;
+	border-bottom: 81.4px solid rgb(207, 54, 10);
+	border-left: 76.3px solid transparent;
+}

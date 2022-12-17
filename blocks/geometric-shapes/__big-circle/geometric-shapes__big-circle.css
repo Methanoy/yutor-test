@@ -1,0 +1,9 @@
+.geometric-shapes__big-circle {
+  position: absolute;
+  top: -25.3%;
+  left: -23.8%;
+  width: 241.4px;
+  height: 236.2px;
+  background-color: rgb(37,132,86);
+  border-radius: 50%;
+}

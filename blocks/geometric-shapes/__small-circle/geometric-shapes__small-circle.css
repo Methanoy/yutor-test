@@ -1,0 +1,10 @@
+.geometric-shapes__small-circle {
+  position: absolute;
+  top: 102px;
+  right: 57.6px;
+  width: 74.7px;
+  height: 75px;
+  background-color: rgb(8, 164, 102);
+  border-radius: 50%;
+  z-index: 2;
+}
