@@ -1,2 +1,11 @@
 # yutor-test
-Test task for Yutor company
+Добрый день!
+## Ссылка на GitHub Pages
+
+[Проект на GitHub Pages](https://methanoy.github.io/yutor-test/)
+
+## Pixel perfect тест
+Сравнение макета и выполненного задания в pixel perfect(PP).
+Использованный для PP слой в папке "img".
+<img src="./gif/yutor-test_pxl-prfct.gif" width="100%">
+
